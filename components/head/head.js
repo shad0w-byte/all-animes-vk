@@ -6,7 +6,7 @@ export default function head({title}) {
         <>
             <NextHead>
                             
-                <meta name="keywords" content="animes, series, all animes, allanimes, desenhos, mangás, assistir anime, assistir animes,victor kiss"/>
+                <meta name="keywords" content="animes, series, all animes, all animes vk, desenhos, mangás, assistir anime, assistir animes,victor kiss"/>
 
                 <meta name="author" content="Victor Kiss"/>
 

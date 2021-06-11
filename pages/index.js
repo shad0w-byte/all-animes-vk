@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <Div>
       <Head>
-            <meta name="keywords" content="animes, series, all animes, allanimes, desenhos, mangás, assistir anime, assistir animes,victor kiss"/>
+            <meta name="keywords" content="animes, series, all animes, all animes vk, desenhos, mangás, assistir anime, assistir animes,victor kiss"/>
 
                 <meta name="author" content="Victor Kiss"/>
 
