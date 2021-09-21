@@ -105,7 +105,7 @@ export default function searchAnime() {
                     </form>
                 </FormArea>
                 {
-                  anime.map(data => <AnimeCard data={data} key={"key" +data.results.mal_id}/>)
+                  anime.map(data => <AnimeCard data={data} key={"key" +data.results}/>)
                 }
             </main>
             <Footer/>

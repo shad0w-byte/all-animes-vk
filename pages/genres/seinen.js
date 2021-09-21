@@ -47,7 +47,7 @@ export default function seinen() {
                 </Div>
             </header>
             <main>
-                {anime.map(data => <AnimeCard data={data} key={"key" +data.results.mal_id}/>)}
+                {anime.map(data => <AnimeCard data={data} key={"key" +data.results}/>)}
                 <FlexDiv direction="column" justify="center" align="center">
                     <Button type="button" onClick={() => setActualPage(actualPage + 1)} 
                     >proxima pagina</Button>
